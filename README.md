@@ -1,2 +1,2 @@
 # gvim-conf
-gvim config and plugins
+gvim config and plugins for windows.
